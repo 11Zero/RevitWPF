@@ -1,0 +1,13 @@
+D:\C++公用文件夹\My Projects_VS2010\RevitWPF\RevitWPF\obj\Debug\RevitWPF.csprojResolveAssemblyReference.cache
+D:\C++公用文件夹\My Projects_VS2010\RevitWPF\RevitWPF\obj\Debug\MainWindow.g.cs
+D:\C++公用文件夹\My Projects_VS2010\RevitWPF\RevitWPF\obj\Debug\RevitWPF_MarkupCompile.cache
+D:\C++公用文件夹\My Projects_VS2010\RevitWPF\RevitWPF\obj\Debug\RevitWPF_MarkupCompile.lref
+D:\C++公用文件夹\My Projects_VS2010\RevitWPF\RevitWPF\obj\Debug\MainWindow.baml
+D:\C++公用文件夹\My Projects_VS2010\RevitWPF\RevitWPF\obj\Debug\RevitWPF.g.resources
+D:\C++公用文件夹\My Projects_VS2010\RevitWPF\RevitWPF\obj\Debug\RevitWPF.Properties.Resources.resources
+D:\C++公用文件夹\My Projects_VS2010\RevitWPF\RevitWPF\obj\Debug\RevitWPF.csproj.GenerateResource.Cache
+D:\C++公用文件夹\My Projects_VS2010\RevitWPF\RevitWPF\obj\Debug\RevitWPF.pdb
+D:\C++公用文件夹\My Projects_VS2010\RevitWPF\RevitWPF\bin\Debug\RevitWPF.dll.config
+D:\C++公用文件夹\My Projects_VS2010\RevitWPF\RevitWPF\bin\Debug\RevitWPF.dll
+D:\C++公用文件夹\My Projects_VS2010\RevitWPF\RevitWPF\bin\Debug\RevitWPF.pdb
+D:\C++公用文件夹\My Projects_VS2010\RevitWPF\RevitWPF\obj\Debug\RevitWPF.dll
